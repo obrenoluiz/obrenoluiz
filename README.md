@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ Sobre mim
 
-- 🔭 Cursando diversos cursos no momento na **[Alura](https://alura.com)**
+- 🔭 Realizando diversos cursos na **[Alura](https://alura.com)**
 - 🌱 Focando em desenvolvimento **Mobile** com **Flutter**
 - 👯 Estou procurando colaborar com **Projetos OpenSource**
 - 👨‍💻 Todos os meus projetos estão disponíveis no **[Meu portfólio]()**
