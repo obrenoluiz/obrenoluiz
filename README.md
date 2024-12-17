@@ -49,9 +49,14 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
-<a href="https://wakatime.com/@OBrenoLuiz" target="_blank">
+<details>
+  <summary>📊 Stats</summary>
+  <br/>
+  <a href="https://wakatime.com/@OBrenoLuiz" target="_blank">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OBrenoLuiz&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📊+〢+OBrenoLuiz%27s+Wakatime+stats" alt="Wakatime stats">
 </a>
+
+</details>
 
 ## ❤ Visualizações e seguidores
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
