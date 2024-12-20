@@ -17,6 +17,7 @@
 
 ## 🙋‍♂️ Sobre mim
 
+- 💻 Diversos projetos sendo realizados e publicados [no meu portfólio](https://obrenoluiz.github.io/portfolio/)
 - 🔭 Realizando diversos cursos na **[Alura](https://alura.com.br)**
 - 🌱 Focando em desenvolvimento **Mobile** com **Flutter**
 - 👯 Estou procurando colaborar com **Projetos OpenSource**
