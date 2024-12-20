@@ -8,12 +8,10 @@
 
 <h1 align="center">
   <a href="#"> Breno Luiz </a>
+  <h3 align="center">Dev Web Pleno | Dev Flutter Junior</h3>
 </h1>
-<h3 align="center">Dev Web Pleno | Dev Flutter Junior</h3>
 
 <br>
-
-<img align='right' src="https://i.pinimg.com/originals/f2/74/6a/f2746ae177a5f4bcb59cf08c8d164b13.gif" width="300">
 
 ## 🙋‍♂️ Sobre mim
 
