@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1000px">
-</p>
-
-<p align="center">
   <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">
 </p>
 
