@@ -12,7 +12,7 @@ Currently, I am:
 - Contributing to **Open Source projects**.  
 - Continuously learning through online courses and hands-on projects ([portfolio](https://obrenoluiz.github.io/portfolio/)).  
 
-📫 **Contact me:** brenoluizpv3@gmail.com
+📫 **Contact me:** brenoluizpv@gmail.com
 
 ---
 
